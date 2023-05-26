@@ -1,8 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "reservations": [
+    {
+      "name": "Gabriele", 
+      "surname": "Napoli", 
+      "startDate": "2023-06-14",
+      "endDate": "2023-06-21",
+      "place": "Unima"
+    },
+    {
+      "name": "Giulia", 
+      "surname": "Bossi", 
+      "startDate": "2023-06-14",
+      "endDate": "2023-06-21",
+      "place": "Unima"
+    },
+    {
+      "name": "Pasquale", 
+      "surname": "De Lucia", 
+      "startDate": "2023-07-01",
+      "endDate": "2023-07-15",
+      "place": "Kanto"
+    },
+    {
+      "name": "Edoardo", 
+      "surname": "Suppo", 
+      "startDate": "2023-08-05",
+      "endDate": "2023-08-17",
+      "place": "Hoenn"
+    },
+    {
+      "name": "Nicolò", 
+      "surname": "Venditti", 
+      "startDate": "2023-06-25",
+      "endDate": "2023-07-12",
+      "place": "Alola"
+    },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
